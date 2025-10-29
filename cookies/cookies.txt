@@ -1,1 +1,14 @@
 # cookies yha dalo 
+# Netscape HTTP Cookie File
+# https://curl.haxx.se/rfc/cookie_spec.html
+# This is a generated file! Do not edit.
+
+.youtube.com	TRUE	/	TRUE	1777311202	VISITOR_INFO1_LIVE	H6-ISY-Pyk8
+.youtube.com	TRUE	/	TRUE	1777311202	VISITOR_PRIVACY_METADATA	CgJJThIEGgAgKw%3D%3D
+.youtube.com	TRUE	/	TRUE	1796319203	PREF	tz=Asia.Kolkata
+.youtube.com	TRUE	/	FALSE	1758014553	ST-iniuow	csn=np8YLffjTnovdqUZ&itct=CEUQojAYAiITCNG8tsP63I8DFVKL2AUdorAVkDIGc2VhcmNoygEEdN4HVQ%3D%3D
+.youtube.com	TRUE	/	FALSE	1758014557	ST-17ebg8m	csn=np8YLffjTnovdqUZ&itct=CC4Q_FoYBSITCNG8tsP63I8DFVKL2AUdorAVkDIGc2VhcmNoUhRjb3B5cmlnaHQgZnJlZSBtdXNpY5oBAxD0JMoBBHTeB1U%3D
+.youtube.com	TRUE	/	TRUE	1761760974	GPS	1
+.youtube.com	TRUE	/	TRUE	0	YSC	yZV65dUDM2c
+.youtube.com	TRUE	/	FALSE	1761759199	ST-1tkjmlb	csn=fEIus4pXEbFd9MDu&itct=CJ8BEKIwGAEiEwi_v_K1-MmQAxVQdp0JHa7sJ_IyBnNlYXJjaMoBBHTeB1U%3D
+.youtube.com	TRUE	/	FALSE	1761759203	ST-hc06bp	csn=fEIus4pXEbFd9MDu&itct=CEgQ_FoYBSITCL-_8rX4yZADFVB2nQkdruwn8jIGc2VhcmNoUhNjb3B5cmlnaHQgZnJlZSBzb25nmgEDEPQkygEEdN4HVQ%3D%3D
